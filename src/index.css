@@ -7,7 +7,10 @@
 }
 
 .container {
-    background-color: rgb(160, 154, 141);
+    background-color: darkslategray;
+    border-radius: 200px;
+    border-style: groove;
+    
 }
 
 .btn {
@@ -17,6 +20,7 @@
 }
 
 .num {
+    color: azure;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: inline-block;
